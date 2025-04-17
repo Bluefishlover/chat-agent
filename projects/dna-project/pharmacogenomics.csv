@@ -1,0 +1,131 @@
+rsid,gene,trait,impact
+rs1057910,CYP2C9,Warfarin metabolism,Reduced clearance
+rs1799853,CYP2C9,NSAID metabolism,Impaired enzyme activity
+rs9923231,VKORC1,Warfarin sensitivity,Lower dose requirement
+rs4149056,SLCO1B1,Statin-induced myopathy,Higher risk with simvastatin
+rs3892097,CYP2D6,Codeine metabolism,Poor metabolizer
+rs5030655,CYP2D6,Tramadol metabolism,Altered analgesic response
+rs1065852,CYP2D6,Fluoxetine metabolism,Reduced enzyme activity
+rs4244285,CYP2C19,Clopidogrel activation,Loss-of-function allele
+rs12248560,CYP2C19,Clopidogrel activation,Gain-of-function allele
+rs776746,CYP3A5,Tacrolimus metabolism,High dose requirement
+rs2647087,TPMT,Azathioprine metabolism,Low enzymatic activity
+rs1800460,TPMT,6-MP toxicity,Intermediate metabolizer
+rs1142345,TPMT,Thiopurine response,Deficient enzyme variant
+rs1801133,MTHFR,Methotrexate sensitivity,Altered folate cycle
+rs1801394,MTRR,Folate recycling,Impact on methylation pathway
+rs116855232,HLA-B,Abacavir hypersensitivity,High risk allele
+rs9264942,HLA-B,Hypersensitivity,Linked to adverse drug reaction
+rs1041983,NAT2,Isoniazid metabolism,Slow acetylator
+rs1801280,NAT2,Hydralazine response,Slow acetylation risk
+rs1799930,NAT2,Sulfonamide toxicity,Reduced metabolism
+rs3093105,G6PD,Antimalarial drug safety,Hemolysis risk
+rs1803274,BCHE,Succinylcholine metabolism,Prolonged apnea
+rs1051266,SLC19A1,Methotrexate transport,Decreased folate influx
+rs4149117,SLCO1B3,Statin handling,Altered hepatic uptake
+rs1800900,DPYD,5-FU toxicity,Deficient DPD activity
+rs3918290,DPYD,Fluoropyrimidine toxicity,Severe reaction risk
+rs67376798,DPYD,Chemotherapy metabolism,Reduced clearance
+rs72552713,DPYD,Capecitabine toxicity,Non-functional variant
+rs2231142,ABCG2,Allopurinol response,Gout and transporter function
+rs1056827,CYP1B1,Estrogen metabolism,Increased hormone turnover
+rs12777823,CYP2C9,Warfarin sensitivity,Dose adjustment needed
+rs3093105,G6PD,Dapsone safety,Hemolysis sensitivity
+rs1051298,SLC19A1,Leucovorin transport,Altered efficacy
+rs7439366,UGT1A1,Irinotecan toxicity,Decreased glucuronidation
+rs887829,UGT1A1,Bilirubin metabolism,Risk of Gilbert syndrome
+rs8175347,UGT1A1,Irinotecan clearance,Reduced enzymatic function
+rs1799971,OPRM1,Opioid sensitivity,Altered analgesic response
+rs6265,BDNF,Antidepressant response,Variable SSRI efficacy
+rs74315329,CYP2A6,Nicotine metabolism,Slow metabolizer variant
+rs2032582,ABCB1,Drug efflux transporter,Altered absorption
+rs1045642,ABCB1,Multidrug resistance,Decreased bioavailability
+rs1128503,ABCB1,Chemotherapy transport,Impaired efflux
+rs1800497,ANKK1,Antipsychotic response,Dopaminergic sensitivity
+rs4680,COMT,Catecholamine metabolism,Neuropsychiatric drug impact
+rs28399504,CYP2B6,Efavirenz metabolism,Neurotoxicity risk
+rs3745274,CYP2B6,Methadone metabolism,Slower clearance
+rs2279343,CYP2B6,Cyclophosphamide toxicity,Metabolism variant
+rs1800440,CYP3A4,Drug clearance,Reduced expression allele
+rs4646437,CYP3A4,Drug metabolism variability,Functional impact
+rs72558181,CYP2C9,Warfarin metabolism,Low activity
+rs56165452,CYP2C19,Omeprazole metabolism,Increased AUC
+rs28399433,CYP2A6,Metabolism of coumarins,Increased clearance
+rs2228001,XPC,Cisplatin toxicity,Enhanced DNA damage
+rs3135506,APOA5,Statin efficacy,Lipid lowering response
+rs1805124,SCN5A,Drug-induced arrhythmia,Cardiac conduction variant
+rs4880,SOD2,Doxorubicin cardiotoxicity,Oxidative stress risk
+rs2070744,NOS3,Anti-hypertensive response,Nitric oxide synthesis
+rs1799854,CYP2D6,Metoprolol metabolism,Beta-blocker clearance
+rs4148323,UGT1A1,Atazanavir metabolism,Higher bilirubin levels
+rs4149056,SLCO1B1,Rosuvastatin clearance,Muscle toxicity risk
+rs1042713,ADRB2,Asthma drug response,Beta-agonist sensitivity
+rs1801253,ADRB1,Beta-blocker efficacy,Heart rate modulation
+rs1048943,CYP1A1,Polycyclic metabolism,Environmental drug interactions
+rs1051740,EPHX1,Carcinogen metabolism,Reduced enzyme activity
+rs1799811,CYP1A2,Caffeine/drug interaction,Clearance rate impact
+rs28371725,CYP2C9,Phenytoin metabolism,Toxicity risk
+rs1799853,CYP2C9,NSAID risk,GI bleed susceptibility
+rs1058930,CYP2A6,Nicotine patch metabolism,Personalized cessation
+rs16947,CYP2D6,SSRI metabolism,Intermediate function allele
+rs28371706,CYP2D6,Codeine efficacy,Ultra-rapid metabolizer
+rs1135840,CYP2D6,Drug metabolism,Enzyme variant
+rs5030865,CYP2C19,Proton pump inhibitor metabolism,Loss-of-function
+rs4244285,CYP2C19,Benzodiazepine metabolism,Increased exposure
+rs3758581,CYP2B6,Antiviral clearance,Efavirenz neurotoxicity
+rs1142345,TPMT,Azathioprine tolerance,Toxic metabolite buildup
+rs1800462,NUDT15,Thiopurine toxicity,Asian-specific variant
+rs116855232,HLA-B,Allopurinol hypersensitivity,Severe skin reaction
+rs115232898,HLA-B,Flucloxacillin DILI risk,Hepatotoxicity susceptibility
+rs1015164,HCP5,Nevirapine toxicity,Hypersensitivity syndrome
+rs2395029,HLA-B,Drug-induced rash,Immunologic reaction
+rs28371725,CYP2C9,Phenytoin metabolism,Slow clearance
+rs1799943,CYP3A5,Cyclosporine handling,Impaired metabolism
+rs7787082,CYP3A5,Drug transporter,Allelic variation
+rs1041981,LTA,Infliximab response,Cytokine modulation
+rs1801131,MTHFR,Antifolate response,Reduced enzyme function
+rs1801133,MTHFR,Trimethoprim-sulfamethoxazole response,Folate-related toxicity
+rs1080985,CYP2D6,Tramadol clearance,Enzyme polymorphism
+rs28399499,CYP2C9,Phenytoin metabolism,High toxicity risk
+rs1208,NAT2,Isoniazid clearance,Fast acetylator
+rs1800629,TNF,Thalidomide response,Cytokine regulation
+rs2236225,MTHFD1,Folate-based drugs,Impaired conversion
+rs429358,APOE,Cholesterol drug response,Statin impact variation
+rs2740574,CYP3A4,Drug metabolism,Enzyme induction
+rs8187710,UGT1A6,Paracetamol metabolism,Altered clearance
+rs1799946,CYP3A5,Tacrolimus response,Reduced exposure
+rs28399433,CYP2A6,Metabolism,Anti-smoking drug impact
+rs5031016,CYP2D6,Oxycodone metabolism,Ultrarapid metabolizer
+rs1065852,CYP2D6,Antidepressants metabolism,Enzyme deficiency
+rs1800975,XRCC1,Cisplatin toxicity,Reduced DNA repair
+rs2072671,DPYD,Chemotherapy,Reduced clearance
+rs1799931,NAT2,Hydralazine metabolism,Susceptibility to lupus
+rs776746,CYP3A5,FK506 metabolism,Variable AUC
+rs1801133,MTHFR,Drug sensitivity,Impaired methylation
+rs1135840,CYP2D6,Mirtazapine metabolism,Altered sedation profile
+rs5758550,CYP2C9,NSAID response,Ultrarapid metabolism
+rs6413432,ADRB1,Metoprolol sensitivity,Beta-1 blocker efficacy
+rs2228000,XRCC1,Cisplatin-induced damage,Increased toxicity
+rs4148326,UGT1A1,Atazanavir-induced hyperbilirubinemia,Low clearance
+rs1051296,ABCB1,P-glycoprotein activity,Drug absorption variability
+rs6088659,CYP3A5,Cyclosporine pharmacokinetics,Reduced activity
+rs738409,PNPLA3,Statin-related liver effects,Elevated ALT risk
+rs1063320,HLA-DQA1,Immunotherapy response,Adverse reaction potential
+rs1135840,CYP2D6,Drug interaction risk,Enzyme variability
+rs1800497,ANKK1,Antipsychotic metabolism,D2 receptor association
+rs1042713,ADRB2,Inhaled β2 agonists,Response variance
+rs1048943,CYP1A1,Polycyclic hydrocarbon detox,Enzyme efficiency
+rs2735383,ABCG2,Multidrug resistance protein,Efflux modulation
+rs2231142,ABCG2,Gout and drug clearance,Altered urate transporter
+rs2032582,ABCB1,Doxorubicin clearance,Efflux activity
+rs1051740,EPHX1,Drug activation phase I,Impact on prodrugs
+rs1169288,HNF1A,Statin metabolism,Gene expression regulator
+rs1800566,NQO1,Antioxidant drug metabolism,Reduced function
+rs8187710,UGT1A1,Acetaminophen response,Low clearance
+rs2072671,DPYD,Cancer drug toxicity,Low enzyme activity
+rs3814055,ABCA1,Statin-induced myopathy,Risk allele
+rs1799853,CYP2C9,Diclofenac metabolism,Low activity allele
+rs11692055,SULT1A1,Drug sulfonation,Metabolic variation
+rs17222723,CYP2C8,Repaglinide metabolism,Clearance variability
+rs578776,CHRNA5,Nicotine metabolism,Addiction medication response
+rs1135840,CYP2D6,Drug clearance variability,Dose adjustment allele
