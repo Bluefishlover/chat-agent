@@ -1,0 +1,139 @@
+rsid,gene,trait,impact
+rs1801133,MTHFR,Folate metabolism,Reduced conversion to methylfolate
+rs58542926,TM6SF2,Fat metabolism,Linked to non-alcoholic fatty liver disease
+rs174546,FADS1,Omega-3 synthesis,Impaired conversion from ALA
+rs17817449,FTO,Obesity risk,Higher BMI association
+rs9939609,FTO,Satiety regulation,Increased appetite
+rs662799,APOA5,Triglyceride levels,Elevated fasting triglycerides
+rs964184,ZPR1,HDL cholesterol,Decreased HDL concentration
+rs12785878,NADSYN1,Vitamin D status,Lower circulating levels
+rs10741657,CYP2R1,Vitamin D metabolism,Reduced hydroxylation
+rs2295418,SLC23A1,Vitamin C transport,Decreased plasma vitamin C
+rs602662,FUT2,B12 absorption,Reduced intestinal uptake
+rs492602,FUT2,Vitamin B12 metabolism,Secretor status effect
+rs1229984,ADH1B,Alcohol metabolism,Rapid ethanol clearance
+rs671,ALDH2,Acetaldehyde metabolism,Impaired alcohol detoxification
+rs1799883,FABP2,Fat absorption,Increased saturated fat uptake
+rs762551,CYP1A2,Caffeine metabolism,Fast or slow metabolizer
+rs4410790,AHR,Caffeine sensitivity,Increased sensitivity
+rs7903146,TCF7L2,Glucose response,Increased diabetes risk
+rs1801282,PPARG,Insulin sensitivity,Modulated glucose metabolism
+rs1800795,IL6,Inflammation and obesity,Elevated CRP and fat storage
+rs10830963,MTNR1B,Melatonin/carb metabolism,Increased fasting glucose
+rs1800629,TNF,Inflammatory metabolism,Chronic metabolic inflammation
+rs5128,APOC3,Triglyceride regulation,Increased post-meal fat
+rs174575,FADS2,PUFA metabolism,Altered omega-6/omega-3 ratios
+rs1050450,GPX1,Oxidative stress,Nutritional antioxidant demand
+rs1800566,NQO1,Vitamin B2 detox cofactor,Reduced enzyme activity
+rs671,CYP2E1,Alcohol metabolism,Inducible enzyme variant
+rs2236225,MTHFD1,Folate metabolism,Decreased conversion to THF
+rs6025,F5,Vitamin K/Blood clotting,Increased thrombosis risk
+rs1695,GSTP1,Detoxification,Reduced glutathione binding
+rs2228570,VDR,Vitamin D receptor,Bone density and immunity
+rs4988235,LCT,Lactose digestion,Lactase persistence
+rs1042713,ADRB2,Energy metabolism,Beta-adrenergic sensitivity
+rs2253206,BDNF,Satiety hormone regulation,Lower brain BDNF
+rs17822931,ABCC11,Body odor & sulfur metabolism,Transporter variant
+rs1219648,FGFR2,Dairy metabolism,Possible link to hormonal response
+rs1799884,GCK,Glucose response,Impaired pancreatic function
+rs1761667,CD36,Fat preference,Tendency toward high-fat foods
+rs1501299,ADIPOQ,Adiponectin levels,Insulin sensitivity regulation
+rs1143634,IL1B,Inflammation,Nutrient-linked inflammation modulation
+rs1799817,INSR,Insulin signaling,Diabetes and nutrient metabolism
+rs6564851,BCMO1,Carotenoid metabolism,Poor conversion of beta-carotene
+rs1803274,BCHE,Choline metabolism,Affected lipid regulation
+rs2544390,CYP7A1,Cholesterol metabolism,Bile acid synthesis rate
+rs2228570,VDR,Calcium absorption,Bone and immune aging
+rs1042034,APOB,Cholesterol transport,LDL particle effect
+rs9930506,FTO,Obesity and satiety,Lower leptin signaling
+rs174537,FADS1,Omega-3 ratio,EPA/DHA conversion efficiency
+rs10455872,LPA,Lipoprotein(a),Heart disease and fat metabolism
+rs1801131,MTHFR,Folate/Choline interplay,Enzyme variant
+rs2855262,SLC2A2,Glucose transporter,Pancreatic insulin release
+rs1726866,TAS2R38,Bitter taste perception,Food aversion sensitivity
+rs713598,TAS2R38,Bitter receptor,Vegetable preference
+rs539846,SCARB1,Cholesterol absorption,HDL uptake
+rs1057910,CYP2C9,Warfarin/Vitamin K metabolism,Metabolism variation
+rs9939609,FTO,Diet-induced obesity,Energy balance regulation
+rs738409,PNPLA3,Fatty liver,Triglyceride storage
+rs699,AGT,Sodium regulation,Salt sensitivity
+rs10757278,9p21,Cholesterol pathway,Heart disease gene link
+rs3764261,CETP,HDL cholesterol,Cholesterol transfer rate
+rs601338,FUT2,B12 absorption,Secretor status
+rs1042714,ADRB2,Energy balance,Thermogenesis control
+rs1042711,ADRB3,Fat burning,Basal metabolic rate effect
+rs3812316,GCKR,Triglycerides,Regulator of glucose metabolism
+rs13107325,SLC39A8,Zinc transport,Nutrient-related inflammation
+rs11172113,LGR4,Essential tremor/Nutrition,Possible link
+rs1205,CRP,Inflammatory marker,Nutrient-responsive inflammation
+rs1801133,MTHFR,Folate metabolism (repeat),Validated nutrient gene
+rs662,CYP2D6,Drug/nutrient metabolism,Influences vitamin D activation
+rs1042713,ADRB2,Energy expenditure,Diet-induced thermogenesis
+rs2254298,OXTR,Appetite and oxytocin,Food intake control
+rs4846049,ABCA1,Cholesterol transport,HDL impact
+rs10246939,TRPV1,Spice response,Heat/pain signal
+rs5400,SLC2A2,Fructose metabolism,Liver sugar processing
+rs7799039,LEP,Leptin hormone,Satiety regulation
+rs11045819,CYP2C19,Fat-soluble vitamin metabolism,Nutrient uptake
+rs267738,HFE,Iron regulation,Dietary iron absorption
+rs4713916,SOD3,Oxidative stress,Nutrient-dependent protection
+rs3758391,SIRT1,Caloric restriction,Anti-aging nutrient sensing
+rs1801253,ADRB1,Heart response,Caloric load impact
+rs1799983,NOS3,Nitric oxide,Endothelial nutrient signaling
+rs5882,CETP,Cholesterol response,Nutrient absorption effect
+rs8192678,PPARGC1A,Fat metabolism,Mitochondrial nutrient use
+rs5128,APOC3,Postprandial triglycerides,Meal response
+rs2762939,BCMO1,Vitamin A conversion,Plant source utilization
+rs11568818,MMP7,Matrix regulation,Nutrient inflammation
+rs1801282,PPARG,Insulin signaling,Dietary fat response
+rs1256031,HSD17B13,Liver protection,Nutrient-linked function
+rs7412,APOE,Lipid metabolism,Response to dietary fat
+rs429358,APOE,Lipid metabolism,Heart and nutrient impact
+rs662799,APOA5,Triglyceride sensitivity,High-fat meal response
+rs1535,FADS2,PUFA conversion,Omega-6/3 regulation
+rs2855262,GLUT2,Fructose transport,Sweet intake and diabetes
+rs2794520,CRP,Inflammation marker,Nutritional inflammation
+rs12521436,GLP1R,Glucose regulation,Sugar metabolism
+rs1801133,MTHFR,Dietary folate,Reconfirmed SNP
+rs1049353,CNR1,Appetite signaling,Endocannabinoid feedback
+rs1208,NAT2,Caffeine metabolism,Acetylation capacity
+rs662,CFH,Eye/nutrient link,AMD and lutein
+rs1426654,SLC24A5,Melanin/Vitamin D,Sunlight nutrient interaction
+rs1076991,PLIN1,Fat cell metabolism,Adiposity regulation
+rs174548,FADS1,Omega fatty acid profile,Balancing dietary fats
+rs1260326,GCKR,Triglyceride and glucose regulation
+rs12306,SCD,Monounsaturated fat metabolism,Stearoyl-CoA activity
+rs478588,SOD1,Superoxide dismutase,Nutrient-linked oxidative stress
+rs6323,MAOA,Neurotransmitters/Nutrients,Vitamin B6 dependence
+rs10774671,OAS1,Immune nutrient response,Viral + omega-3 interaction
+rs651821,APOA5,Triglycerides,Hypertriglyceridemia risk
+rs601338,FUT2,Secretor effect,B12 nutrient absorption
+rs58542926,TM6SF2,Triglyceride storage,Response to dietary fat
+rs713598,TAS2R38,Food sensitivity,Bitter taste variation
+rs1535,FADS2,PUFA processing,Dietary balance response
+rs2016520,PPARA,Lipid regulation,Diet-induced response
+rs2740574,CYP3A4,Drug-food interaction,Metabolism efficiency
+rs12255372,TCF7L2,Glucose regulation,Diet response
+rs7903146,TCF7L2,Diabetes risk,Diet interaction
+rs2167270,LEP,Leptin hormone,Appetite control
+rs1042713,ADRB2,Energy regulation,Weight loss response
+rs2234693,ESR1,Hormonal aging,Diet-linked inflammation
+rs1042034,APOB,LDL levels,Fat response
+rs10757278,9p21,Heart and diet,Nutrient-driven plaque risk
+rs4988235,LCT,Lactase persistence,Dairy tolerance
+rs599839,PSRC1,LDL metabolism,Nutritional impact
+rs174556,FADS1,PUFA metabolism,Imbalance with high omega-6
+rs1800206,PPARA,Fat burning,Dietary intake sensitivity
+rs1229984,ADH1B,Alcohol and nutrient processing,Risk of liver stress
+rs3764261,CETP,HDL function,Diet-induced cholesterol modulation
+rs3812316,GCKR,Fat/glucose use,Caloric storage impact
+rs320,CETP,Cholesterol transfer,Diet-dependent HDL levels
+rs662,CFH,Antioxidant pathway,Link to eye nutrient protection
+rs738409,PNPLA3,Triglyceride storage,Diet-liver relationship
+rs3810291,FADS1,Omega-3 metabolism,Efficiency of DHA/EPA production
+rs671,ALDH2,Alcohol metabolism,Diet and liver detox
+rs1695,GSTP1,Detoxification,Nutrient antioxidant load
+rs12913832,HERC2,Vitamin D activation,Sunlight-driven nutrient variation
+rs1799945,HFE,Iron metabolism,Absorption response
+rs1057910,CYP2C9,VK/Warfarin metabolism,Diet and pharmacogene overlap
+---
