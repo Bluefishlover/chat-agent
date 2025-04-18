@@ -1,0 +1,149 @@
+### 📄 Filename: neuro.csv
+```csv
+rsid,gene,trait,impact
+rs6265,BDNF,Neuroplasticity,Reduced synaptic plasticity
+rs4680,COMT,Cognitive control,Altered dopamine metabolism
+rs7412,APOE,Alzheimer’s Disease,E2 protective or E4 risk
+rs429358,APOE,Alzheimer’s Disease,E4 high-risk variant
+rs4570625,SLC6A4,Depression,Increased susceptibility
+rs1344706,ZNF804A,Schizophrenia,Increased risk
+rs1006737,CACNA1C,Bipolar disorder,Confirmed association
+rs17693963,GRM3,Schizophrenia,Cognitive processing involvement
+rs3732378,NRG1,Neurodevelopment,Reduced signaling
+rs3910105,HTR2A,Serotonin signaling,Depression susceptibility
+rs1800497,ANKK1,Dopamine signaling,Reward sensitivity
+rs1800955,DRD4,ADHD risk,Reduced dopamine receptor binding
+rs1076560,DRD2,Schizophrenia risk,D1/D2 receptor balance
+rs9320913,KIBRA,Memory function,Long-term memory strength
+rs17070145,KIBRA,Memory and cognition,Hippocampal function
+rs429358,APOE,Cognitive decline,Neurodegeneration risk
+rs3736228,LRP5,Neurodevelopment,Bone and brain growth factor
+rs2832407,GABRA2,Alcohol dependence,GABA signaling alteration
+rs1160041,HTR1A,Anxiety,Serotonin receptor sensitivity
+rs16969968,CHRNA5,Nicotine addiction,Reward pathway modulation
+rs1799971,OPRM1,Opiate response,Altered pain and reward response
+rs806377,CNR1,Cannabinoid signaling,Reward and anxiety modulation
+rs324420,FAAH,Cannabis response,Reduced breakdown of endocannabinoids
+rs1800795,IL6,Neuroinflammation,Elevated proinflammatory cytokine
+rs1049353,CNR1,THC sensitivity,Increased psychoactive response
+rs13212041,HTR1B,Impulse control,Serotonin modulation
+rs6585018,OXTR,Social behavior,Oxytocin receptor expression
+rs53576,OXTR,Empathy and stress,Reduced receptor function
+rs11575542,MAOA,Violence/aggression risk,Monoamine metabolism
+rs6323,MAOA,Depression and stress,Impaired serotonin turnover
+rs6609257,SHANK3,Autism spectrum,Disrupted synaptic scaffolding
+rs7794745,NRXN1,ASD susceptibility,Neurexin family dysfunction
+rs7794745,NRXN1,Autism risk,Cell adhesion signaling
+rs2710102,CNTNAP2,Language delay,Neural connectivity issues
+rs4307059,MACROD2,Autism susceptibility,Neural development role
+rs9873259,MEF2C,Intellectual disability,Transcription factor impact
+rs17039988,GRIN2B,Learning disability,Glutamate receptor
+rs3219151,HTR1A,Anxiety/depression,Mental health susceptibility
+rs6295,HTR1A,Serotonin receptor,Mood and antidepressant sensitivity
+rs160459,KANSL1,Dementia risk,Chromatin regulation
+rs644148,GSK3B,Bipolar disorder,Lithium target pathway
+rs11607159,NRXN3,Obesity and addiction,Neural reward link
+rs17070145,KIBRA,Memory function,Long-term memory efficiency
+rs1018381,DISC1,Schizophrenia,Neuronal migration defect
+rs6675281,DISC1,Working memory,Cognitive load processing
+rs10455872,LPA,Vascular dementia risk,Cholesterol & stroke
+rs2075650,TOMM40,Alzheimer's Disease,Mitochondrial aging
+rs11218343,SORL1,Alzheimer’s risk,Impaired amyloid clearance
+rs4934,CLU,Neuroprotection,Chaperone activity decline
+rs11136000,CLU,Alzheimer’s Disease,Cognitive resilience
+rs610932,MS4A6A,Neurodegeneration,Risk locus
+rs3865444,CD33,Microglial activation,Alzheimer’s inflammation
+rs75932628,TREM2,Alzheimer’s Disease,Impaired immune response
+rs1990622,TMEM106B,Frontotemporal dementia,Risk allele
+rs157580,LPL,Dementia metabolism,Neuronal lipid metabolism
+rs1800796,IL6,Neuroimmune aging,Cytokine activity
+rs2736990,SNCA,Parkinson’s Disease,α-synuclein risk variant
+rs356219,SNCA,Neurodegeneration,Increased α-synuclein expression
+rs12185268,MAPT,Frontotemporal dementia,Tau protein regulation
+rs1052553,MAPT,Parkinson’s risk,Microtubule stability
+rs17651549,GRIN1,Excitotoxicity,Glutamate receptor hyperfunction
+rs2075652,GSK3B,Neurodevelopment,Lithium modulation
+rs2237717,CACNA1C,Neurocognition,Bipolar and schizophrenia overlap
+rs12720208,BCL11A,Brain size,White matter and cognition
+rs3732379,NRG1,Neural development,Myelination regulation
+rs362273,RELN,Neurodevelopment and schizophrenia,Migration signals
+rs6277,DRD2,Antipsychotic response,Dopamine D2 availability
+rs17110432,GRM7,Depression susceptibility,Glutamate signaling
+rs56164415,CACNA1C,Anxiety and bipolar,Excitatory neuron activity
+rs11720469,GRIK1,Alcohol response,Excitatory neurotransmitter balance
+rs15524,SLC6A3,Dopamine reuptake,ADHD and stimulant response
+rs4074995,HTR2C,Weight gain from antipsychotics,Serotonin role
+rs2296972,DRD1,Working memory,D1 receptor impact
+rs1869458,HTR3A,SSRI nausea response,Serotonin-gated channel
+rs2267735,ADCYAP1R1,PTSD risk,Stress hormone response
+rs7131056,CACNA2D1,Epilepsy risk,Calcium channel sensitivity
+rs2769605,SLC6A2,Norepinephrine transporter,ADHD and anxiety
+rs2023239,CNR1,THC tolerance,CB1 receptor binding
+rs5751876,ADORA2A,Caffeine anxiety,Sleep disturbance from stimulants
+rs6313,HTR2A,Hallucinogen response,Serotonin binding
+rs1835740,MOSPD3,Migraine risk,Glutamate pathway regulation
+rs2070762,GLRB,Glycine receptor,Neurodevelopmental role
+rs2234693,ESR1,Estrogen and cognition,Neuroprotective hormone pathway
+rs17651549,GRIN1,Neuroexcitability,NMDA receptor regulation
+rs2290588,CACNA1C,Epilepsy susceptibility,Excitability regulation
+rs1800872,IL10,Neuroinflammation,Anti-inflammatory cytokine
+rs2314339,BDNF,Memory performance,Exercise-induced growth
+rs1344706,ZNF804A,Schizophrenia,Working memory alteration
+rs11191580,NT5C2,Schizophrenia,Cognitive dysfunction link
+rs2619538,GRM8,Anxiety disorder,Metabotropic glutamate signaling
+rs6584400,NTRK2,Depression treatment response,BDNF signaling pathway
+rs951266,GABRG2,Seizure threshold,Inhibitory control
+rs15524,DRD2,Antipsychotic response,Dopaminergic effect
+rs11191280,GRIN2B,Learning capacity,Glutamatergic signaling
+rs1858830,SLITRK1,Tourette syndrome,Axon guidance genes
+rs1360780,FKBP5,Stress reactivity,Glucocorticoid regulation
+rs356168,SNCA,Parkinson’s Disease,Alpha-synuclein regulation
+rs2030324,GRIK2,Cognition,Glutamate ionotropic receptor
+rs13212041,HTR1B,Impulsivity,Dopamine-serotonin modulation
+rs12913832,OCA2,Eye-brain development,Cognitive-visual link
+rs521674,HTR2A,SSRI side effects,Pharmacogenetic sensitivity
+rs2228570,VDR,Cognition & aging,Vitamin D receptor and neurofunction
+rs2236225,MTHFD1,Neurodevelopment,One-carbon metabolism
+rs1801394,MTRR,Brain methylation,Neurodevelopmental function
+rs1255998,OPRM1,Addiction vulnerability,Mu-opioid receptor
+rs6269,COMT,Prefrontal dopamine,Working memory efficiency
+rs2070762,GABRA4,Autism and anxiety,Inhibitory neurotransmitter
+rs6311,HTR2A,Depression and SSRI response,5-HT2A receptor sensitivity
+rs2439272,CACNB2,Bipolar and cardiac overlap,Calcium channel function
+rs7982,SNAP25,Schizophrenia,Ca2+-dependent neurotransmitter release
+rs7597593,GRIN3B,Cognition,Memory and executive function
+rs1142523,GAD1,GABA synthesis,Neural inhibition efficiency
+rs1129649,GABRA6,Anxiety and stress,Receptor subtype modulation
+rs7048425,NPY,Appetite and anxiety,Stress response peptide
+rs6313,HTR2A,Serotonergic cognition,Cognitive emotional regulation
+rs6296,HTR1B,Aggression and risk,Serotonin regulation in PFC
+rs2296972,DRD1,Cognitive effort,Attention modulation
+rs10770141,TYR,Neurodevelopment,Melanin/dopamine pathway
+rs1076560,DRD2,Cognitive flexibility,Reward prediction error
+rs10994336,ANK3,Bipolar disorder,Node of Ranvier and excitability
+rs3792452,NOS1,Neurotransmitter synthesis,Brain nitric oxide signaling
+rs1360780,FKBP5,Stress regulation,Early trauma sensitivity
+rs1378810,PLCB1,Neurodevelopment,Signal transduction in brain
+rs2710102,CNTNAP2,Language acquisition,Neuronal connectivity
+rs7859271,PTPRG,Autism and ADHD,Cell adhesion and synapse function
+rs10897284,SRR,Glutamate conversion,Schizophrenia risk
+rs1018381,DISC1,Neurodevelopment,Dysregulation in schizophrenia
+rs7766029,CHRNA4,Nicotine and memory,Receptor binding affinity
+rs2234693,ESR1,Hormonal neuroprotection,Cognitive resilience
+rs17782313,MC4R,Obesity-linked cognition,Energy balance and memory
+rs11603044,DLG4,Synaptic scaffolding,Plasticity and behavior
+rs1869458,HTR3A,SSRI side effects,Nausea modulation
+rs3778150,CNTNAP2,Neural circuitry,Autism and epilepsy
+rs1076560,DRD2,D2 receptor isoform,Cognitive task modulation
+rs1799913,MAOB,Dopaminergic control,Neurotransmitter clearance
+rs1042778,OXTR,Social anxiety,Oxytocin receptor density
+rs1447295,AR,Neuroendocrine interaction,Sex differences in risk
+rs4916723,CHRNA3,Nicotine dependence,Cognitive disinhibition
+rs3813714,SNAP25,Memory encoding,Neurotransmitter release speed
+rs26907,NR4A2,Dopaminergic neuron fate,Parkinson’s risk
+rs3782219,RELN,Autism and cognition,Reelin signal modulation
+rs2814707,SLC6A4,Depression,Serotonin transporter polymorphism
+rs4657412,NRXN1,Neuronal connectivity,Language and memory
+rs4880,SOD2,Neuroprotection,Oxidative stress resistance
+rs6265,BDNF,Neural growth,Response to exercise and cognition
+---
